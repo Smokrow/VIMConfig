@@ -5,5 +5,5 @@ I used the following tutorial to set VIM up:
 
 The command for that is:
 ```
-ls -s ~/.vim/THIS DIR ~/.vimrc
+ls -s ~/thisDIR/vimrc ~/.vimrc
 ```
