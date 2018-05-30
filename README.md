@@ -2,6 +2,7 @@ To install this bundle your need to copy this dir onto your system. After that y
 I used the following tutorial to set VIM up:
 
 [http://marcgg.com/blog/2016/03/01/vimrc-example/]
+
 The command for that is:
 ```
 ls -s ~/.vim/THIS DIR ~/.vimrc
